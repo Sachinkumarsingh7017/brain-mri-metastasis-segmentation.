@@ -1,2 +1,2 @@
-# brain-mri-metastasis-segmentation.
-Brain MRI metastasis segmentation using Nested U-Net and Attention U-Net.
+git clone https://github.com/your-username/brain-mri-metastasis-segmentation.git
+cd brain-mri-metastasis-segmentation
